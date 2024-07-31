@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "Aura1",
-    "slug": "aura1",
-    "scheme": "aura1",
+    "name": "Views",
+    "slug": "Views",
+    "scheme": "views",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -13,14 +13,15 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true,
-      "package": "com.alton.aura"
+      "supportsTablet": true
+     
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+       "package": "com.alton.aura"
      
     },
     "web": {

@@ -5,7 +5,7 @@
     "scheme": "views",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/view.png",
+    "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/view.png",
@@ -17,7 +17,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/view.png",
+        "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
       "package": "com.alton.aura"
